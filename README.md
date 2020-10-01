@@ -223,6 +223,7 @@ Questions can be asked by raising an `Issue`.
 - [Satyam Gadekar(@07Satyam)](https://github.com/07Satyam)
 - [schmelto](https://github.com/schmelto)
 - [Shanmuganathanb](https://github.com/Shanmuganathanb)
+- [Sharvari Raut](https://github.com/sharur7)
 - [Shubham Hadake](https://github.com/Shubham714)
 - [Siddhant Khare](https://github.com/Siddhant-K-code)
 - [Silas Omurunga](https://github.com/Simbadeveloper)
